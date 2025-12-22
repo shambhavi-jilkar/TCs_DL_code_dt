@@ -1,3 +1,3 @@
 TCS DL Code
 + ERA5 processing
-+ Diffusion Transformer (To be done)
++ Diffusion Transformer (Implemented and evaluated against GRU-CNN)
